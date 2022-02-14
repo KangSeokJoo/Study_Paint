@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Study_Paint</string>
+    <string name="drawing">그리기</string>
+    <string name="erase">지우기</string>
+    <string name="save">저장</string>
+    <string name="delete">삭제</string>
+    <string name="selectMode_Edit">좌표 입력 모드</string>
+    <string name="selectMode_Draw">터치 입력 모드</string>
+    <string name="load">불러오기</string>
+</resources>
